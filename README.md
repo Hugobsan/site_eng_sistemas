@@ -1,0 +1,2 @@
+# site_eng_sistemas
+Site criado para organizar o conteúdo assíncrono do curso de engenharia de sistemas para os estudantes, permite ao usuário gerenciar as disciplinas que cursa, acessar links e vídeos gravados pelo professor, e marcar como concluído para incrementar no contador de aulas vistas. Permite ao admin gerenciar os usuários cadastrados, gerenciar as disciplinas cadastradas e os videos e links de cada disciplina. EM CONSTRUÇÃO
