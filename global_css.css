@@ -1,0 +1,88 @@
+.abaixar2{
+    margin-top: 80px;
+    background-color: #ed716b;
+    padding-bottom: 20px;
+  }
+
+.backgroundwpp {
+    background-image: url("wallpaper.jpg");
+    background-color: #cccccc;
+    padding-bottom:30px;
+    padding-top:20px;
+    margin-top:-20px;
+  }
+
+.abaixar {
+    margin-top: 30px;
+    background-color: #52bafa99;
+    padding-bottom: 20px;
+  }
+
+.abaixa{
+    margin-top: 10px;
+}
+.logo {
+    text-decoration:none;
+    font-size: 22px;
+    margin-top: 20px;
+}
+.sublogo{
+    text-decoration: none;
+    font-size: 15px;
+    margin-top: 27px;
+    margin-left:3px;
+}
+.redefinidores{
+    padding-left:30px;
+}
+.nota{
+    color:gray;
+    font-size:13px ;
+}
+.regulasub{
+    opacity:.7;
+}
+.regulasub:hover{
+    opacity:1;
+}
+
+.subimagem{
+    width:30px;
+}
+
+.subcont{      
+    padding:10px 10px 10px 10px;
+}
+.submenu{
+    position: fixed;
+    right:0px;
+    top:80px;
+    z-index: 100;
+    
+}
+.item-navegacao {
+    display: inline-block;
+    margin-left: 10px;
+    padding: 1px;
+    color: white !important;
+    border-radius: 10px;
+    background-color: rgb(72, 72, 255);
+    margin-bottom: 5px;
+    transition: 0.5s;
+}
+.item-navegacao:hover{
+    background-color: rgb(129, 129, 255);
+}
+#cabecalho {
+    background-color: rgb(180, 202, 231);
+}
+.tela-de-login{
+    margin-top: 230px;
+    background-color: rgb(240, 240, 240);
+    padding: 10px 30px 30px 30px;
+    border: 1px solid grey;
+    border-radius: 10px;    
+}
+.botao-cadastro{
+    font-size: 15px;
+}
