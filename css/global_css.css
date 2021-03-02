@@ -50,8 +50,7 @@
     width:30px;
 }
 
-.subcont{
-        
+.subcont{      
     padding:10px 10px 10px 10px;
 }
 .submenu{
@@ -60,4 +59,10 @@
     top:80px;
     z-index: 100;
     
+}
+.azul-escuro {
+    color:rgb(0, 0, 107) !important;
+}
+#cabecalho {
+    background-color: rgb(180, 202, 231);
 }
