@@ -74,7 +74,7 @@
     background-color: rgb(129, 129, 255);
 }
 #cabecalho {
-    background-color: rgb(180, 202, 231);
+    background-color: #0f53ac;
 }
 .tela-de-login{
     margin-top: 230px;
@@ -85,4 +85,45 @@
 }
 .botao-cadastro{
     font-size: 15px;
+}
+#titulo-nav{
+    font-family: ;
+    font-size: 2em;
+    color:#f5f0f0;
+}
+.opcao{
+    color:#f8efef !important;
+    margin:5px;
+}
+.opcao:hover{
+    padding:5px 10px;
+    display:inline-block;
+    background: #f8efef;
+    color: #0f4892 !important;
+    font-weight: bold;
+}
+#home #opc-home{
+    padding:5px 10px;
+    display:inline-block;
+    background: #f8efef;
+    color: #0f4892 !important;
+    font-weight: bold;
+}
+#disciplinas #opc-disciplinas{
+    padding:5px 10px;
+    display:inline-block;
+    background: #f8efef;
+    color: #0f4892 !important;
+    font-weight: bold;
+}
+#config #opc-config{
+    padding:5px 10px;
+    display:inline-block;
+    background: #f8efef;
+    color: #0f4892 !important;
+    font-weight: bold;
+}
+#subtitulo-nav{
+    font-size: 1.5em;
+    color:#f5f0f0;
 }
