@@ -28,13 +28,13 @@
             <div class="collapse navbar-collapse" id="menu-do-navbar">
                 <ul class="navbar-nav ml-auto">
                     <li>
-                        <a href="index.php" id="opc-home" class="opcao nav-link">Home</a>
+                        <a href="index.php" id="opc-home" class="rounded opcao nav-link">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a href="disciplinas.php" id="opc-disciplinas" class="opcao nav-link">Disciplinas</a>
+                        <a href="disciplinas.php" id="opc-disciplinas" class="rounded opcao nav-link">Disciplinas</a>
                     </li>
                     <li class="nav-item">
-                        <a href="configuracoes.php" id="opc-config" class=" opcao nav-link">Configurações</a>
+                        <a href="configuracoes.php" id="opc-config" class="rounded opcao nav-link">Configurações</a>
                     </li>  <li class="nav-item">
                 </ul>
             </div>
