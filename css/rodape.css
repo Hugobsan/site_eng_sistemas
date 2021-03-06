@@ -1,0 +1,18 @@
+#rodape {
+    color:#f5f0f0;
+    background-color: #0f53ac;
+    font-size: 1.2em;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#rodape a{
+    text-decoration: underline;
+    color:#e0e0e0;
+    font-weight: bold;
+}
+#rodape a:hover{
+    color:#cae67f;
+}
+.div-second{
+    margin-bottom: -20px;
+}
