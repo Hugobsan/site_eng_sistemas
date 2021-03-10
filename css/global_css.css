@@ -1,6 +1,9 @@
 .row{
     margin-right: 0px !important;
 }
+.inlineblock{
+    display: inline-block;
+}
 .tira_sublinhado{
     text-decoration:none;
 }
@@ -42,6 +45,10 @@
     font-size: 2em;
     color:#f5f0f0;
 }
+#titulo-nav:hover{
+    font-weight: bold;
+    color:#19026b;
+}
 .opcao{
     color:#f8efef !important;
     margin:5px;
@@ -68,6 +75,14 @@
     font-weight: bold;
 }
 #config #opc-config{
+    padding:5px 10px;
+    display:inline-block;
+    background: #f8efef;
+    color: #0f4892 !important;
+    font-weight: bold;
+}
+
+#alunos #opc-alunos{
     padding:5px 10px;
     display:inline-block;
     background: #f8efef;

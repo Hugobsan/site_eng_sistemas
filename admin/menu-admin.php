@@ -17,11 +17,11 @@
                     <a href="index.php" id="opc-home" class="rounded opcao nav-link">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a href="disciplinas.php" id="opc-disciplinas" class="rounded opcao nav-link">Disciplinas</a>
+                    <a href="edita_aluno.php" id="opc-alunos" class="rounded opcao nav-link">Alunos</a>
                 </li>
                 <li class="nav-item">
-                    <a href="configuracoes.php" id="opc-config" class="rounded opcao nav-link">Configurações</a>
-                </li>  <li class="nav-item">
+                    <a href="disciplinas_admin.php" id="opc-disciplinas" class="rounded opcao nav-link">Disciplinas</a>
+                </li>
             </ul>
         </div>
     </nav>
